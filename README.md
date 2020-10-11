@@ -11,6 +11,106 @@ Highly inspired by @winston's [Conference Planning Playbook](https://github.com/
 
 ## Formation
 
+### Communication
+
+(Further elaboration needed)
+
+- Slack for main conversations
+- Screen.so for calls
+- Trello for task management
+
+### Succession
+
+
+
 ## Areas of Contribution
 
+
+
+### Chairperson
+
+
+
+### Vice Chairperson
+
+
+
+### Code of Conduct
+
+
+
+### Treasurer
+
+
+
+### Marketing
+
+
+
+### Sponsorship
+
+
+
+### Software Development
+
+
+
+### Designer
+
+
+
+### Swag
+
+
+
+### Ticketing
+
+
+
+### Venues Management
+
+
+
+### Speaker Management
+
+
+
+### Emcee
+
+
+
+### Time-Keeper
+
+
+
+### Data Analysis
+
+
+
+### Food & Beverages
+
+
+
+### Registration
+
+
+
+### After-Party
+
+
+
+### Media
+
+
+
+### Human Resourcing
+
+
+
 ## Timeline
+
+### Pre-Conference
+
+### Conference Day
+
+### Post-Conference
