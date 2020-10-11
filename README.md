@@ -9,7 +9,7 @@ Highly inspired by @winston's [Conference Planning Playbook](https://github.com/
  
 ## Prelude
 
-## Formation
+## Organising Team
 
 ### Communication
 
