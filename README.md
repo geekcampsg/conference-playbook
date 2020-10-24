@@ -8,6 +8,15 @@ Highly inspired by @winston's [Conference Planning Playbook](https://github.com/
 ---
 
 ## Prelude
+GeekcampSG has been around since 2009. Even though we are (probably) the oldest community conference in Singapore, one of the areas we re lacking, is the knowledge management of the SOPs and good practices for organising the conference. This has resulted in new organisers having to figure out things on their own and sometimes having avoidable blind spots due to their inexperience.
+
+In 2020, the COVID-19 pandemic was a constraint which resulted in the conference being held online due to social distancing. GeekcampSG 2020 was not only a virtual conference, but one that experimented with green screen technology. In fact, we believe that we may be the first community conference in Singapore that used green screen technology. Thus, we believe there are new learnings and knowledge worthwhile documenting.
+
+We hope that this playbook can allow future organisers to build on the knowledge of their predecessors, and aid the longevity of GeekcampSG.
+
+At the same time, we hope that this document can be a solid reference for any new conference organiser. It could be someone executing an inaugural run of a new conference, or those who want to bring their conference virtual first time.
+
+We are always learning and welcome feedback/discussion with regards to this playbook. Finally, what we have presented has worked for our context, but may not necessarily work for other conferences. YMMV.
 
 ## Organising Team
 
