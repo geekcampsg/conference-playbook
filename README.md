@@ -75,16 +75,18 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 - CFP + conference date
 - CFP closing soon / CFP extension
 - Confirmed schedule
+- Collect speaker's social media handles
+- Individual talk/speaker promotion
 - Registration
 - Sponsor shoutouts
-- Reminder of event at D01
+- Reminder of event at D-1
 - D-day postings for each talk: start and end
 - Sponsor booths
 - Food
 - After party
 - Post event Survey
-- Video uploads for each talk
-- Video playlist link
+- Post-event promotion: video uploads for each talk
+- Post-event promotion: video playlist link
 
 #### Resources
 - Social media accounts: [FB](https://www.facebook.com/GeekcampSG/), [Twitter](https://twitter.com/geekcamp), [Instagram](https://www.instagram.com/geekcampsg)
@@ -93,7 +95,9 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 - Marketing channels spreadsheet
 - Email account
 - Design assets
-- #marketing in slack
+- marketing in [public slack](https://join.slack.com/t/geekcampattendees/shared_invite/enQtNzM3MDc0ODM1MDYxLWEzODZjZjliMzFlMjhmNzMwZjUwYTc1NTUwZDY4NmQ1MmVmODI4NGNhMmVlODhjNTBiZWFiYzU4MGYxYzRmNjI)
+- #marketing in geekcampsg organisers slack
+- [Youtube](https://www.youtube.com/user/geekcampsg)
 
 
 ### Sponsorship
