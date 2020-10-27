@@ -8,7 +8,7 @@ Highly inspired by @winston's [Conference Planning Playbook](https://github.com/
 ---
 
 ## Prelude
-GeekcampSG has been around since 2009. Even though we are (probably) the oldest community conference in Singapore, one of the areas we re lacking, is the knowledge management of the SOPs and good practices for organising the conference. This has resulted in new organisers having to figure out things on their own and sometimes having avoidable blind spots due to their inexperience.
+GeekcampSG has been around since 2009. Even though we are (probably) the oldest community conference in Singapore, one of the areas we are lacking is in the knowledge management of the SOPs and good practices for organising the conference. This has resulted in new organisers having to figure out things on their own, sometimes encountering avoidable blind spots due to their inexperience.
 
 In 2020, the COVID-19 pandemic was a constraint which resulted in the conference being held online due to social distancing. GeekcampSG 2020 was not only a virtual conference, but one that experimented with green screen technology. In fact, we believe that we may be the first community conference in Singapore that used green screen technology. Thus, we believe there are new learnings and knowledge worthwhile documenting.
 
