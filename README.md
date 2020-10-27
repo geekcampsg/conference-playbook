@@ -157,9 +157,18 @@ There should be a speaker manager for every 3-5 talks, but not limited to those 
 - Ensure they arrive in advance
 - Test their equipment
   - Could run separate room for speakers to test their microphones, webcams, slides or video adapters
+  - Reassure them that their microphone has been tested to work, so they should avoid asking the audience "can you hear me"
 - Move them to the main room and remind them what to do
-  - Cue they should look out for
   - Unmuting their mic
+  - Cue they should look out for
+
+##### Post-Conference
+
+- Final email
+  - Gather feedback
+  - Collect final copy of slides
+  - Provide links to recordings
+  - Next year CTA
 
 ### Emcee
 
