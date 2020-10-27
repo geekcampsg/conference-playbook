@@ -156,6 +156,8 @@ Emcees should make preparations for themselves. Their own material can come in a
 - `for talk in talks:`
   - Introduce speakers and their talks
   - Handover to the speakers
+    - If they ask, assure them that they can be heard
+    - Any technical issues, the emcee has to be prepared to step in and make decisions
   - Optional: Wrap up the speaker's talk
   - Do the Q&A
 - On the last talk before breaks
