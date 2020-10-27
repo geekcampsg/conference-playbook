@@ -142,14 +142,12 @@ At any point in time, there must be an emcee, and there should be a backup emcee
 
 ##### Preparation
 
-Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. 
-- If using slides, they should verify that they have a space to locate their laptop or a monitor to present from. Also preferably use their own laptop. 
-
-Important things to prepare:
-- Pronunciation of speaker names
 - Speaker introduction
+  - Correct pronunciation of speaker names
 - Talk introduction
 - If necessary: Talk and speaker introduction slide to show the audience. Work with the designer.
+
+Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device). Verify that there is space to locate your laptop (or in some venues an additional screen).
 
 #### On the day
 
@@ -169,7 +167,7 @@ Important things to prepare:
 
 #### Resources
 
-- Use text-to-speech (like Google [Translate](https://translate.google.com/)) as a reference for how to pronounce speaker names
+- Text-to-speech (like Google [Translate](https://translate.google.com/)) engines are decent references for pronunciation
 
 ### Time-Keeper
 
