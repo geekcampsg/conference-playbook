@@ -130,7 +130,46 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 
 ### Emcee
 
+#### Expectations
 
+The emcees help transition between sections of the conference. They also engage the audience with additional insight and help facilitate the Q&A. They also provide time for the speaker to get ready. 
+
+#### People
+
+At any point in time, there must be an emcee, and there should be a backup emcee. It is highly recommended to rotate emcee roles each day or each half-day. 
+
+#### Tasks
+
+##### Preparation
+
+Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. 
+- If using slides, they should verify that they have a space to locate their laptop or a monitor to present from. Also preferably use their own laptop. 
+
+Important things to prepare:
+- Pronunciation of speaker names
+- Speaker introduction
+- Talk introduction
+- If necessary: Talk and speaker introduction slide to show the audience. Work with the designer.
+
+#### On the day
+
+- Start the day, welcome everyone & other misc briefings
+- Handover to the Chairperson/Vice Chairperson for introductory talk
+- `for talk in talks:`
+  - Introduce speakers and their talks
+  - Handover to the speakers
+  - Optional: Wrap up the speaker's talk
+  - Do the Q&A
+- On the last talk before breaks
+  - Ask the time-keeper when to end the break
+- Start of breaks
+  - Sponsor messages & other misc notices
+  - Announce the break and where they can mingle
+- End the day
+
+#### Resources
+
+- Use text-to-speech (like Google [Translate](https://translate.google.com/)) as a reference for how to pronounce speaker names
 
 ### Time-Keeper
 
@@ -167,3 +206,7 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 ### Conference Day
 
 ### Post-Conference
+
+
+
+<!-- vim: set et ts=2 sw=2: -->
