@@ -126,7 +126,40 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 
 ### Speaker Management
 
+#### Expectations
 
+Communicate with speakers, be their point of contact, ensure they are comfortable and prepared to present. 
+
+#### People
+
+There should be a speaker manager for every 3-5 talks, but not limited to those talks. One speaker manager should lead the efforts. 
+
+#### Tasks
+
+##### Pre-Conference
+
+- Help write the call-for-papers (CFP)
+- Ensure all necessary information is collected during the CFP
+- Answer queries made through the CFP
+- Care for our speakers
+  - Especially for online conferences, speakers may have a change of plans and forget to inform us
+- Announce the accepted speakers
+- Prepare them for the conference day
+  - Credentials for any accounts
+  - Guidance for using any software
+  - What to do before, during and after their talk
+    - When to arrive
+	  - Should appear 30 minutes in advance
+    - Q&A format
+
+##### Conference Day
+
+- Ensure they arrive in advance
+- Test their equipment
+  - Could run separate room for speakers to test their microphones, webcams, slides or video adapters
+- Move them to the main room and remind them what to do
+  - Cue they should look out for
+  - Unmuting their mic
 
 ### Emcee
 
