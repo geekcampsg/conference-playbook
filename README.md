@@ -140,16 +140,16 @@ At any point in time, there must be an emcee, and there should be a backup emcee
 
 #### Tasks
 
-##### Preparation
+##### Pre-Conference
 
-- Speaker introduction
+- Prepare speaker introduction
   - Correct pronunciation of speaker names
-- Talk introduction
+- Prepare talk introduction
 - If necessary: Talk and speaker introduction slide to show the audience. Work with the designer.
 
 Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device). Verify that there is space to locate your laptop (or in some venues an additional screen).
 
-#### On the day
+#### Conference Day 
 
 - Start the day, welcome everyone & other misc briefings
 - Handover to the Chairperson/Vice Chairperson for introductory talk
