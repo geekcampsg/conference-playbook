@@ -126,7 +126,27 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 
 
 ### Ticketing
+#### Expectations
 
+#### People
+Assuming all templates are in place:
+- Min 1 pax. Ideally at least 2 pax
+
+Note: Not necessary, but usually dual-hatted with Registration as they are closely linked and Ticketing is pre-conference heavy while Registration is conference heavy.
+
+#### Tasks
+
+##### Access
+- Give members of the Ticketing team access to the ticketing platform accounts
+- Give members of the Ticketing team access for checking in attendees to the ticketing platform accounts
+- Give committee members view acces (for statistics/analytics) access to the ticketing platform accounts
+
+##### Notifications
+- 
+
+
+#### Resources
+- 
 
 
 ### Venues Management
