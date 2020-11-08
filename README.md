@@ -127,6 +127,7 @@ Note: during D day. There is a lot of work to be done. The lesser people there a
 
 ### Ticketing
 #### Expectations
+Work with various teams to set up the platform/webpage for attendees to sign up for conference and pay for the tickets if it is a paid event,
 
 #### People
 Assuming all templates are in place:
@@ -135,19 +136,42 @@ Assuming all templates are in place:
 Note: Not necessary, but usually dual-hatted with Registration as they are closely linked and Ticketing is pre-conference heavy while Registration is conference heavy.
 
 #### Tasks
+##### Pre-Conference
+- Set up the ticketing platform
+  - Work with committee to determine dates and timing of event.
+  - Work with committee to determine when to open and close the registration.
+  - Work Venue Management team for venue details to populate the registration page with.
+  - Check with all the teams on questions they require to be added to questionnaire (eg: t-shirt size, meal preference, workshop attendance, etc)
+  - Work with Marketing team on marketing information (copies and website link) to put in registration page.
+  - Work with Marketing team on promote registration when it opens.
+  - Work with Sponsorship team to create ticket codes for sponsors and partners
+  - Create ticket codes for volunteers
+
+##### Conference Day
+- Attendance
+  - Ensure members of the Registration team have access for checking in attendees
+  - Monitor attendance
+
+##### Post-Conference
+- Statistics
+  - Gather statistics from the ticketing platform and send to the committee
+  - Number of registrations and attendance 
+  - Responses to registration questionnaire
+- Future action
+  - Provide information from responses to next committee that is for their future action.  Eg: Name list of those interested in speaking or helping out.
 
 ##### Access
 - Give members of the Ticketing team access to the ticketing platform accounts
-- Give members of the Ticketing team access for checking in attendees to the ticketing platform accounts
+- Give members of the Registration team access for checking in attendees to the ticketing platform accounts
 - Give committee members view acces (for statistics/analytics) access to the ticketing platform accounts
 
-##### Notifications
-- 
-
-
 #### Resources
-- 
-
+- [eventbrite](https://www.eventbrite.sg/)
+  - Full featured ticketing platform
+  - Free for free events, but a bit pricey (around 10%) for paid events
+- [Tito](https://ti.to/home)
+  - Quite comparable to eventbrite
+  - Also free for free events, cheaper for for paid events at 3% (1% for community & non-profit events)
 
 ### Venues Management
 
