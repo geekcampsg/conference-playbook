@@ -147,7 +147,9 @@ At any point in time, there must be an emcee, and there should be a backup emcee
 - Prepare talk introduction
 - If necessary: Talk and speaker introduction slide to show the audience. Work with the designer.
 
-Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device). Verify that there is space to locate your laptop (or in some venues an additional screen).
+Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device). Verify that there is space to locate your laptop (or in some venues an additional screen). Their material should at minimum introduce the speaker (talk title, speaker name, speaker background). They can prepare extra material to engage their audience and fill in time gaps. Examples are:
+- Fact bites about the event, venue or speaker
+- Trivia questions
 
 #### Conference Day 
 
@@ -166,6 +168,8 @@ Emcees should make preparations for themselves. Their own material can come in a
   - Sponsor messages & other misc notices
   - Announce the break and where they can mingle
 - End the day
+
+Emcees should also be responsible for announcing ad-hoc updates such as changes to the schedule or lost and found.
 
 #### Resources
 
