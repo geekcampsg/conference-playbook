@@ -183,7 +183,50 @@ Note: Not necessary, but usually dual-hatted with Registration as they are close
 
 ### Emcee
 
+#### Expectations
 
+The emcees help transition between sections of the conference. They also engage the audience with additional insight and help facilitate the Q&A. They also provide time for the speaker to get ready. 
+
+#### People
+
+At any point in time, there must be an emcee, and there should be a backup emcee. It is highly recommended to rotate emcee roles each day or each half-day. 
+
+#### Tasks
+
+##### Pre-Conference
+
+- Prepare speaker introduction
+  - Correct pronunciation of speaker names
+- Prepare talk introduction
+- If necessary: Talk and speaker introduction slide to show the audience. Work with the designer.
+
+Emcees should make preparations for themselves. Their own material can come in any form, like slides, notes or cards. [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device). Verify that there is space to locate your laptop (or in some venues an additional screen). Their material should at minimum introduce the speaker (talk title, speaker name, speaker background). They can prepare extra material to engage their audience and fill in time gaps. Examples are:
+- Fact bites about the event, venue or speaker
+- Trivia questions
+
+#### Conference Day 
+
+- Start the day, welcome everyone & other misc briefings
+- Handover to the Chairperson/Vice Chairperson for introductory talk
+- `for talk in talks:`
+  - Introduce speakers and their talks
+  - Handover to the speakers
+    - If they ask, assure them that they can be heard
+    - Any technical issues, the emcee has to be prepared to step in and make decisions
+  - Optional: Wrap up the speaker's talk
+  - Do the Q&A
+- On the last talk before breaks
+  - Ask the time-keeper when to end the break
+- Start of breaks
+  - Sponsor messages & other misc notices
+  - Announce the break and where they can mingle
+- End the day
+
+Emcees should also be responsible for announcing ad-hoc updates such as changes to the schedule or lost and found.
+
+#### Resources
+
+- Text-to-speech (like Google [Translate](https://translate.google.com/)) engines are decent references for pronunciation
 
 ### Time-Keeper
 
@@ -220,3 +263,7 @@ Note: Not necessary, but usually dual-hatted with Registration as they are close
 ### Conference Day
 
 ### Post-Conference
+
+
+
+<!-- vim: set et ts=2 sw=2: -->
